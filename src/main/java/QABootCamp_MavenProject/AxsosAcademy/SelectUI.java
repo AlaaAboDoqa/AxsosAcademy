@@ -16,7 +16,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 		
 		          
 	    
-        //Setup the browserاً
+      //Setup the browserً
         WebDriverManager.firefoxdriver().setup();
         
         WebDriver driver = new FirefoxDriver();
